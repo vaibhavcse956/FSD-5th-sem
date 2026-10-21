@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="p1.css"?>
+<students>
+    <student>
+        <name>Vaibhav Kumar</name>
+        <rollno>101</rollno>
+        <mobile>987xx</mobile>
+        <course>B.tech</course>
+    </student>
+</students>
